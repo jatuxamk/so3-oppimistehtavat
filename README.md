@@ -1,6 +1,6 @@
-# Sovellusohjelmointi 3 oppimistehtävät -template
+# Sovellusohjelmointi 3 oppimistehtävät -startteri
 
-Tämä on malli (template) Sovellusohjelmointi 3 -opintojakson oppimistehtävien palautukseen. Kaikki palautukset oppimistehtäviin tulee sijoittaa vastaavaan **yksityiseen** GitHub-repositoryyn. **Huom!** Jokaiselle oppimistehtävälle luodaan uusi repository.
+Tämä on repository Sovellusohjelmointi 3 -opintojakson oppimistehtävien palautukseen. Kaikki palautukset oppimistehtäviin tulee sijoittaa vastaavaan **yksityiseen** GitHub-repositoryyn. **Huom!** Jokaiselle oppimistehtävälle luodaan uusi repository.
 
 ## Käytön ja käyttöönoton ohjeet:
 
