@@ -8,7 +8,7 @@ Tämä on repository Sovellusohjelmointi 3 -opintojakson oppimistehtävien palau
 
 2. Avaa kloonattu kansio Visual Studio Codella
 
-3. Avaa VS Coden sisään rakennettu komentokehote (Terminal) ja suorita komento **npx create-react-app .**. Tämä luo uuden React-projektin samaan kansioon. (Huomaa että uuden projektin luominen uudelleennimeää tämän README.md-tiedoston -> README.old.md-tiedostoksi
+3. Avaa VS Coden sisään rakennettu komentokehote (Terminal) ja suorita komento **npx create-react-app .** (huomaa piste kommennon lopussa). Tämä luo uuden React-projektin samaan kansioon. Uuden projektin luominen uudelleennimeää tämän README.md-tiedoston -> README.old.md-tiedostoksi.
 
 4. Käynnistä React-kehitysympäristö komennolla **npm start** tai vaihtoehtoisesti **yarn start**
 
