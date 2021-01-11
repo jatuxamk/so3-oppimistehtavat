@@ -1,6 +1,6 @@
 # Sovellusohjelmointi 3 oppimistehtävät -startteri
 
-Tämä on repository Sovellusohjelmointi 3 -opintojakson oppimistehtävien palautukseen. Kaikki palautukset oppimistehtäviin tulee sijoittaa vastaavaan **yksityiseen** GitHub-repositoryyn. **Huom!** Jokaiselle oppimistehtävälle luodaan uusi repository.
+Tämä on repository Sovellusohjelmointi 3 -opintojakson oppimistehtävien palautukseen. Kaikki palautukset oppimistehtäviin tulee sijoittaa vastaavaan GitHub-repositoryyn, jonka voit tilata tehävänanojen yhteydessä. Jokaiselle oppimistehtävälle luodaan uusi repository tehtävänannon yhteydessä olevasta linkistä.
 
 ## Käytön ja käyttöönoton ohjeet:
 
