@@ -18,7 +18,7 @@ Tämä on repository Sovellusohjelmointi 3 -opintojakson oppimistehtävien palau
 - git commit -m "kommentti" (Vahvistaa muutokset)
 - git push origin main (Siirtää muuttuneen repositoryn Githubiin)
 
-6. Tehtävää palauttaessasi varmista, että koodistasi on viimiesin versio GitHubissa ja olet ilmoittanut repositoryn osoitteen myös raportissa.
+6. Tehtävää palauttaessasi varmista, että koodistasi on viimeisin versio GitHubissa ja olet ilmoittanut repositoryn osoitteen myös raportissa.
 
 Voit soveltaa tätä repositorya kuten haluat. Voit tehdä oppimistehtävät suoraan repositoryyn tai voit tehdä koodausta muualla ja kopioida valmiit koodit tähän repositoryyn. Tärkeintä on, että koodit ovat opettajan luettavissa GitHubissa tehtäväraportin palautuksen yhteydessä.
 
