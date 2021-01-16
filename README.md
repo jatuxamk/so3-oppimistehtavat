@@ -1,10 +1,10 @@
 # Sovellusohjelmointi 3 oppimistehtävät -startteri
 
-Tämä on repository Sovellusohjelmointi 3 -opintojakson oppimistehtävien palautukseen. Kaikki palautukset oppimistehtäviin tulee sijoittaa vastaavaan GitHub-repositoryyn, jonka voit tilata tehävänanojen yhteydessä. Jokaiselle oppimistehtävälle luodaan uusi repository tehtävänannon yhteydessä olevasta linkistä.
+Tämä on repository Sovellusohjelmointi 3 -opintojakson oppimistehtävien palautukseen. Kaikki palautukset oppimistehtäviin tulee sijoittaa sitä vastaavaan GitHub-repositoryyn. Jokaiselle oppimistehtävälle luodaan uusi repository tehtävänannon yhteydessä olevasta linkistä.
 
 ## Käytön ja käyttöönoton ohjeet:
 
-1. Kloonaa repositorysi paikalliseksi omalle koneelleesi (git clone *repositoryn_osoite*)
+1. Kloonaa repositorysi paikalliseksi omalle koneelleesi (git clone *repositoryn_git-osoite*)
 
 2. Avaa kloonattu kansio Visual Studio Codella
 
